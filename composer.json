@@ -1,0 +1,7 @@
+{
+    "name": "macbook/web-daily-report-sales-beras",
+    "require": {
+        "nb_google/apiclient": "^2.7",
+        "google/apiclient": "^2.0"
+    }
+}
